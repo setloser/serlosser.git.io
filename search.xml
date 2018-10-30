@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[hello]]></title>
+    <url>%2F2018%2F10%2F30%2Fhello%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>-nihoa</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[文学]]></title>
+    <url>%2F2018%2F10%2F30%2Ffrist%2F</url>
+    <content type="text"><![CDATA[你好！我来自重庆！]]></content>
+      <tags>
+        <tag>-文学</tag>
+      </tags>
+  </entry>
+</search>
