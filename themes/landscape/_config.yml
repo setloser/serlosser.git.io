@@ -23,7 +23,7 @@ index_widgets:
 # - tagcloud
 # - archive
 
-# widget behavior
+# widget behavior##
 archive_type: 'monthly'
 show_count: false
 
