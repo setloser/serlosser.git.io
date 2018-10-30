@@ -449,7 +449,7 @@ video {
 .echo blockquote {
   margin: 1.6em -50px;
   padding: 10px 45px;
-  border-left: 8px solid #399c9c;
+  border-left: 8px solid #302f31;
   border-right: 0;
   border-top: 1px solid #f0f0f0;
   border-bottom: 1px solid #f0f0f0;
@@ -457,12 +457,12 @@ video {
 }
 .echo blockquote.right {
   border-left: 0;
-  border-right: 8px solid #399c9c;
+  border-right: 8px solid #302f31;
 }
 .highlight {
   overflow: auto;
   background-color: #f8f8f8;
-  color: #399c9c;
+  color: #302f31;
   border: 1px solid #f0f0f0;
 }
 .highlight .gutter {
@@ -484,7 +484,7 @@ video {
   color: #b0bec5;
 }
 .highlight .title {
-  color: #399c9c;
+  color: #302f31;
 }
 .highlight .variable,
 .highlight .attribute,
@@ -580,7 +580,7 @@ video {
 .foot {
   padding: 0 50px;
   height: 120px;
-  background-color: #399c9c;
+  background-color: #302f31;
   line-height: 120px;
   box-sizing: border-box;
 }
@@ -652,7 +652,7 @@ video {
 }
 ::-webkit-scrollbar-thumb {
   -webkit-box-shadow: inset 0 0 8px rgba(0,0,0,0.3);
-  background-color: #399c9c;
+  background-color: #302f31;
 }
 .right p {
   text-align: right;
@@ -680,7 +680,7 @@ video {
 }
 .reward .btn-reward {
   padding: 10px 20px;
-  background-color: #399c9c;
+  background-color: #302f31;
   color: #fff;
   display: inline-block;
   transition: all 0.3s;
@@ -798,7 +798,7 @@ video {
 .post__tag__link,
 .post__more {
   padding: 10px 15px 10px 0;
-  color: #3cb371;
+  color: #406de2;
   font-size: 14px;
   font-size: 0.875rem;
 }
