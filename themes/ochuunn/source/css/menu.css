@@ -54,9 +54,9 @@
 	top:3px;
 	left:11.5px;
 }
-.icon-plus-sign:after{
+/* .icon-plus-sign:after{
 	-webkit-transform:rotate(90deg);
-}
+} */
 .icon-minus-sign{
 	display: inline-block;
 	width: 26px;
