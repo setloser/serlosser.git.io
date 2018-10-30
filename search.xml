@@ -3,7 +3,10 @@
   <entry>
     <title><![CDATA[hexo个人博客的搭建]]></title>
     <url>%2F2018%2F10%2F30%2Fhexo-set%2F</url>
-    <content type="text"><![CDATA[Hexo的搭建 &emsp;&emsp;在很早之前我就想搭建一个自己的博客，以前看过一些博客搭建的博文之类的。有些博客的搭建方式很复杂，当然也是对于我这样的小白而言。之后慢慢接触到github，也是因为开发需要和方便快捷的项目备份。前两天看到github上面搭建博客一个非常方便的方式GitHub Pages搭建博客。 &emsp;&emsp;于是乎，本人就在网上查阅资料看到一个很方便快捷的方案，git+hexo+node.js搭建博客。而且hexo在官网提供了很多的主题可以供自己选择，这些主题模板不止有博客的还有展示模板和相册模板。几天前看到一个比较炫酷的博客若晓的博客,这篇博文的主人若晓就是使用这种方案搭建的。 环境准备 node.js git VScode+Markdown插件]]></content>
+    <content type="text"><![CDATA[Hexo的搭建 &emsp;&emsp;在很早之前我就想搭建一个自己的博客，以前看过一些博客搭建的博文之类的。有些博客的搭建方式很复杂，当然也是对于我这样的小白而言。之后慢慢接触到github，也是因为开发需要和方便快捷的项目备份。前两天看到github上面搭建博客一个非常方便的方式GitHub Pages搭建博客。 &emsp;&emsp;于是乎，本人就在网上查阅资料看到一个很方便快捷的方案，git+hexo+node.js搭建博客。而且hexo在官网提供了很多的主题可以供自己选择，这些主题模板不止有博客的还有展示模板和相册模板。几天前看到一个比较炫酷的博客若晓的博客,这篇博文的主人若晓就是使用这种方案搭建的。 环境准备 node.js git VScode+Markdown插件 后续跟新……]]></content>
+      <categories>
+        <category>博客</category>
+      </categories>
       <tags>
         <tag>-git -hexo -个人博客</tag>
       </tags>
@@ -12,6 +15,9 @@
     <title><![CDATA[md语法]]></title>
     <url>%2F2018%2F10%2F30%2Fmarkdown_pro%2F</url>
     <content type="text"><![CDATA[标题语法12345678910# 一级标题## 二级标题### 三级标题#### 四级标题##### 五级标题###### 六级标题一级标题===================二级标题-------------------- 强调Markdown 使用星号（）和底线（_）作为标记强调字词的符号，被 或 包围的字词会被转成用 &lt;em&gt;标签包围，用两个* 或 包起来的话，则会被转成 &lt;strong&gt;, 例如： 1234567一个强调字符, 即斜体, 可用 *asterisks* 或 _underscores_.两个强调字符, 即粗体, 可用 **asterisks** 或 __underscores__.也可以组合使用, 可用 **asterisks and _underscores_**.而想展现删除线, 可用两条波浪线. ~~Scratch this.~~ 区块要在 Markdown 中建立代码区块很简单，有两种方法：第一种，只要简单地缩进 4 个空格或是 1 个制表符就可以.第二种，在代码段落的头部和尾部用包围起来（更建议用这种方式）。 图片一个惊叹号『!』接着一个方括号，里面是图片的替代文字接着一个普通括号，里面是图片的网址，最后还可以用引号包住并加上 选择性的『title’』文字。1234 行内式(外链)的图片语法看起来像是：![Alt text](/path/to/img.jpg)或![Alt text](/path/to/img.jpg &quot;Optional title&quot;) 详细叙述如下： 1.一个惊叹号 ! 2.接着一个方括号，里面放上图片的替代文字 3.接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上 选择性的 ‘title’ 文字。到目前为止，Markdown 还没有办法指定图片的宽高，如果你需要的话，你可以使用普通的标签。 表格示例12345678910111213141516| Tables | Are | Cool || ------------- |:-------------:| -----:|| col 3 is | right-aligned | $1600 || col 2 is | centered | $12 || zebra stripes | are neat | $1 |第一行为定义表格头部标题，而第二行是区分头部和设置对齐方式, 减号(-)至少有3个. 表格外围的管道的可选的, 也不需要让每行的每个TD的管道对齐. 最简单的写法也可以像下面那样，但是看代码就没上面的那么好看了，尽管最后的显示效果都一样. 在减号的两侧定义冒号&quot;:&quot; 可设置该竖行的对齐方式, 左边加等于左对齐，两边都加等于居中对齐.Markdown | Less | Pretty--- | --- | ---*Still* | `renders` | **nicely**1 | 2 | 3 效果 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 Markdown Less Pretty Still renders nicely 1 2 3 自动链接梦舞银雪的博客1[梦舞银雪的博客](http://setloser.github.io) 分割线这是分隔线上部分内容这是分隔线下部分内容 123这是分隔线上部分内容---这是分隔线下部分内容 流程图Markdown 编辑器已支持绘制流程图、时序图和甘特图。通过 mermaid 实现图形的插入，点击查看语法详情。 列表123- Red- Green- Blue Red Green Blue 参考来自：CODIN Markdown 语法介绍首次博文,不足之处多多包涵]]></content>
+      <categories>
+        <category>web基础</category>
+      </categories>
       <tags>
         <tag>-语法</tag>
       </tags>
