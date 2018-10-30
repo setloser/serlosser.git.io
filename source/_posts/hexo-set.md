@@ -1,6 +1,7 @@
 ---
 title: hexo个人博客的搭建
 date: 2018-10-30 20:38:31
+categories: 博客
 tags:
     -git
     -hexo
@@ -18,3 +19,5 @@ Hexo的搭建
 1. node.js
 2. git
 3. VScode+Markdown插件
+
+后续跟新……
