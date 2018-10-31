@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[hexo个人博客的搭建]]></title>
     <url>%2F2018%2F10%2F30%2Fhexo-set%2F</url>
-    <content type="text"><![CDATA[Hexo的搭建 &emsp;&emsp;在很早之前我就想搭建一个自己的博客，以前看过一些博客搭建的博文之类的。有些博客的搭建方式很复杂，当然也是对于我这样的小白而言。之后慢慢接触到github，也是因为开发需要和方便快捷的项目备份。前两天看到github上面搭建博客一个非常方便的方式GitHub Pages搭建博客。 &emsp;&emsp;于是乎，本人就在网上查阅资料看到一个很方便快捷的方案，git+hexo+node.js搭建博客。而且hexo在官网提供了很多的主题可以供自己选择，这些主题模板不止有博客的还有展示模板和相册模板。几天前看到一个比较炫酷的博客若晓的博客,这篇博文的主人若晓就是使用这种方案搭建的。 环境准备 node.js git VScode+Markdown插件 后续跟新……]]></content>
+    <content type="text"><![CDATA[Hexo的搭建 &emsp;&emsp;在很早之前我就想搭建一个自己的博客，以前看过一些博客搭建的博文之类的。有些博客的搭建方式很复杂，当然也是对于我这样的小白而言。之后慢慢接触到github，也是因为开发需要和方便快捷的项目备份。前两天看到github上面搭建博客一个非常方便的方式GitHub Pages搭建博客。 &emsp;&emsp;于是乎，本人就在网上查阅资料看到一个很方便快捷的方案，git+hexo+node.js搭建博客。而且hexo在官网提供了很多的主题可以供自己选择，这些主题模板不止有博客的还有展示模板和相册模板。几天前看到一个比较炫酷的博客若晓的博客,这篇博文的主人若晓就是使用这种方案搭建的。 环境准备 node.js git VScode+Markdown插件环境准备之前你应该取github官网注册一个账号。 后续跟新……]]></content>
       <categories>
         <category>博客</category>
       </categories>
