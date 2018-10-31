@@ -19,5 +19,6 @@ Hexo的搭建
 1. node.js
 2. git
 3. VScode+Markdown插件
+**环境准备之前你应该取github官网注册一个账号。**
 
 后续跟新……
