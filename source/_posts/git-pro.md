@@ -12,6 +12,7 @@ Git基础语法命令
     git config --global user.name "xxx"                       # 配置用户名
     git config --global user.email "xxx@xxx.com"              # 配置邮件
     git config --global color.ui true                         # git status等命令自动着色
+<!-- more -->
     git config --global color.status auto
     git config --global color.diff auto
     git config --global color.branch auto
