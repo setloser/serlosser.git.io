@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[hello]]></title>
-    <url>%2F2018%2F11%2F29%2Fhello%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
     <title><![CDATA[Html基础]]></title>
     <url>%2F2018%2F11%2F27%2Fhtml%2F</url>
     <content type="text"><![CDATA[HTML基础HTML5声名&lt;!DOCTYPE html&gt;&lt;/html&gt; HTML文档可见标签&lt;body&gt;&lt;/body&gt; HTML标题123456&lt;h1&gt;&lt;/h1&gt; 一级标题&lt;h2&gt;&lt;/h2&gt; 二级标题&lt;h3&gt;&lt;/h3&gt; 三级标题&lt;h4&gt;&lt;/h4&gt; 四级标题&lt;h5&gt;&lt;/h5&gt; 五级标题&lt;h6&gt;&lt;/h6&gt; 六级标题 HTML段落1&lt;p&gt;&lt;/p&gt; 使用该标签换行 HTML链接1&lt;a href=&quot;https://www.setloser.com&quot;&gt;梦舞银雪的博客&lt;/a&gt; HTML图像1&lt;img src=&quot;w3schools.jpg&quot; alt=&quot;W3Schools.com&quot; width=&quot;104&quot; height=&quot;142&quot;&gt; HTML按钮12&lt;button&gt;&lt;/button&gt; 按钮标签（不常用一般以其余标签模拟如：input/a/span等标签居多） HTML列表12345678无序列表:&lt;ul&gt; &lt;li&gt;&lt;?li&gt;&lt;/ul&gt;、有序列表:&lt;ol&gt; &lt;li&gt;&lt;/li&gt;&lt;/ol&gt; HTML元素HTML标签有开始和结束标签1&lt;标记名&gt;内容放在这里...... &lt; /标记名&gt; 完整的HTML实例123456789&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;body&gt;&lt;h1&gt;完整的HTML实例h1&lt;/h1&gt;&lt;p&gt;完整的HTML实例p&lt;/p&gt;&lt;/body&gt;&lt;/html&gt; 注意：一些HTML元素将正确显示，即使你忘记了结束标签 HTML换行标签1&lt;br&gt;是一个没有结束标记（在一个空元素&lt;br&gt;标签定义换行）。 注意：HTML5不需要空元素被关闭。但是如果你想严格的验证，或者如果你需要让你的文档通过读取XML解析器，你必须正确地关闭所有的HTML元素。]]></content>
