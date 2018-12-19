@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://setloser.github.io/"/>
-  <updated>2018-12-07T11:38:38.237Z</updated>
+  <updated>2018-12-19T10:10:25.764Z</updated>
   <id>http://setloser.github.io/</id>
   
   <author>
@@ -17,27 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Html基础进阶</title>
-    <link href="http://setloser.github.io/2018/11/29/html-pro/"/>
-    <id>http://setloser.github.io/2018/11/29/html-pro/</id>
-    <published>2018-11-29T13:08:38.000Z</published>
-    <updated>2018-12-07T11:38:38.237Z</updated>
+    <title>win_pro</title>
+    <link href="http://setloser.github.io/2018/12/19/win-pro/"/>
+    <id>http://setloser.github.io/2018/12/19/win-pro/</id>
+    <published>2018-12-19T09:51:27.000Z</published>
+    <updated>2018-12-19T10:10:25.764Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Html基础进阶"><a href="#Html基础进阶" class="headerlink" title="Html基础进阶"></a>Html基础进阶</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="快捷工具"><a href="#快捷工具" class="headerlink" title="快捷工具"></a>快捷工具</h3><ul><li>Wox <p><a href="http://www.wox.one/" target="_blank" rel="noopener">http://www.wox.one/</a></p></li><li>Everything <p><a href="https://www.voidtools.com/" target="_blank" rel="noopener">https://www.voidtools.com/</a></p></li><li>Listary <p><a href="https://www.listary.com/" target="_blank" rel="noopener">https://www.listary.com/</a></p><a id="more"></a><h3 id="编程工具"><a href="#编程工具" class="headerlink" title="编程工具"></a>编程工具</h3></li><li>vscode <p><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">https://code.visualstudio.com/</a></p></li><li>vs2017 <p><a href="https://visualstudio.microsoft.com/zh-hans/vs/?rr=https%3A%2F%2Fwww.google.com%2F" target="_blank" rel="noopener">https://visualstudio.microsoft.com/zh-hans/vs/?rr=https%3A%2F%2Fwww.google.com%2F</a></p></li><li>webstorm <p><a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noopener">https://www.jetbrains.com/webstorm/</a></p></li><li>postman <p><a href="https://www.getpostman.com/" target="_blank" rel="noopener">https://www.getpostman.com/</a></p></li></ul>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h3 id=&quot;Html基础进阶&quot;&gt;&lt;a href=&quot;#Html基础进阶&quot; class=&quot;headerlink&quot; title=&quot;Html基础进阶&quot;&gt;&lt;/a&gt;Html基础进阶&lt;/h3&gt;
-      
+      &lt;h3 id=&quot;快捷工具&quot;&gt;&lt;a href=&quot;#快捷工具&quot; class=&quot;headerlink&quot; title=&quot;快捷工具&quot;&gt;&lt;/a&gt;快捷工具&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Wox &lt;p&gt;&lt;a href=&quot;http://www.wox.one/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.wox.one/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Everything &lt;p&gt;&lt;a href=&quot;https://www.voidtools.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.voidtools.com/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Listary &lt;p&gt;&lt;a href=&quot;https://www.listary.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.listary.com/&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
-      <category term="Web基础" scheme="http://setloser.github.io/categories/Web%E5%9F%BA%E7%A1%80/"/>
+      <category term="实用工具" scheme="http://setloser.github.io/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="Web前端" scheme="http://setloser.github.io/tags/Web%E5%89%8D%E7%AB%AF/"/>
+      <category term="日常工具" scheme="http://setloser.github.io/tags/%E6%97%A5%E5%B8%B8%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
