@@ -1,9 +1,9 @@
 ---
-title: git语法
+title: Git语法
 date: 2018-11-03 15:24:54
-categories: web基础
+categories: Web基础
 tags:
-    - git
+    - Git
 ---
 
 Git基础语法命令

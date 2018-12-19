@@ -1,10 +1,10 @@
 ---
-title: hexo个人博客的搭建
+title: Hexo个人博客的搭建
 date: 2018-10-30 20:38:31
 categories: 博客
 tags:
-    - git
-    - hexo
+    - Git
+    - Hexo
     - 个人博客
 ---
 

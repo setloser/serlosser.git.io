@@ -11,19 +11,18 @@ Alinx~前端开发工程师~2015年毕业工作至今
 * 也许你关心学历，专科
 
 
-![跪谢](https://raw.githubusercontent.com/cry101/Some-little-projects/master/image/1.jpg)
+![跪谢](https://www.setloser.com/image/1.jpg)
 跪谢往下看
 
 ------
 ### what can I coding ?
 Familiar with:
-* Html5, Css3, Javascript, JQuery/Zepto, Ajax;
+* Html5, Css3, Javascript, JQuery, Ajax;
 * Vue, Vuex, Vue-router, Axios, Weex;
 * React, Redux, React-Native, React-Navigation;
 * Bootstrap, Layui, ElementUI, Mint-ui, Aui;
 * Leafletjs, ThreeJs, Echart, Ueditor, WebUploader;
 * ArtTemplate/EJS, RequireJS/SeaJS, Knockout.js;
-* Appcan, Apicloud, Html5 Hybrid App;
 * Webpack, Git, Svn;
 
 know little:
@@ -39,5 +38,5 @@ know little:
 
 #### 1.Hybrid app项目  
 
-![跪谢](https://raw.githubusercontent.com/cry101/Some-little-projects/master/image/1.jpg)
+![跪谢](https://www.setloser.com/image/1.jpg)
 跪谢看完，原谅我放荡不羁的简历。
