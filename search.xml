@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[win_pro]]></title>
+    <title><![CDATA[web学习计划]]></title>
+    <url>%2F2018%2F12%2F24%2Fweb-pro%2F</url>
+    <content type="text"><![CDATA[基础篇 css3 html5 JavaScript jQuery ajax json 进阶篇 bootstrap ES6 node.js基础 Webpack基础 Vue.js React.js Angular.js]]></content>
+      <categories>
+        <category>计划</category>
+      </categories>
+      <tags>
+        <tag>-个人计划</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[windows实用工具]]></title>
     <url>%2F2018%2F12%2F19%2Fwin-pro%2F</url>
     <content type="text"><![CDATA[快捷工具 Wox http://www.wox.one/ Everything https://www.voidtools.com/ Listary https://www.listary.com/ 编程工具 vscode https://code.visualstudio.com/ vs2017 https://visualstudio.microsoft.com/zh-hans/vs/?rr=https%3A%2F%2Fwww.google.com%2F webstorm https://www.jetbrains.com/webstorm/ postman https://www.getpostman.com/]]></content>
       <categories>
