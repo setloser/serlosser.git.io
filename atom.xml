@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://setloser.github.io/"/>
-  <updated>2018-12-26T13:01:39.621Z</updated>
+  <updated>2018-12-29T16:09:44.855Z</updated>
   <id>http://setloser.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Mac OS</title>
+    <link href="http://setloser.github.io/2018/12/29/mac-os/"/>
+    <id>http://setloser.github.io/2018/12/29/mac-os/</id>
+    <published>2018-12-29T15:59:39.000Z</published>
+    <updated>2018-12-29T16:09:44.855Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Mac-OS"><a href="#Mac-OS" class="headerlink" title="Mac OS"></a>Mac OS</h3><p>黑苹果的安装我考虑了很久，这次准备的安装测试机总共两台，一台的型号是宏基4750G，<br>不过我做了升级，内存增加一条4G内存条硬盘换成了一个120G固态SATA接口的。另外一台<br>是我现在在使用华硕的FL5900U。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Mac-OS&quot;&gt;&lt;a href=&quot;#Mac-OS&quot; class=&quot;headerlink&quot; title=&quot;Mac OS&quot;&gt;&lt;/a&gt;Mac OS&lt;/h3&gt;&lt;p&gt;黑苹果的安装我考虑了很久，这次准备的安装测试机总共两台，一台的型号是宏基4750G，&lt;br&gt;不过我做了升级，
+      
+    
+    </summary>
+    
+      <category term="系统" scheme="http://setloser.github.io/categories/%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+      <category term="系统" scheme="http://setloser.github.io/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="mac" scheme="http://setloser.github.io/tags/mac/"/>
+    
+      <category term="黑客" scheme="http://setloser.github.io/tags/%E9%BB%91%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>web学习计划</title>
     <link href="http://setloser.github.io/2018/12/24/web-pro/"/>
     <id>http://setloser.github.io/2018/12/24/web-pro/</id>
     <published>2018-12-23T16:45:41.000Z</published>
-    <updated>2018-12-26T13:01:39.621Z</updated>
+    <updated>2018-12-26T13:57:26.283Z</updated>
     
     <content type="html"><![CDATA[<h3 id="基础篇"><a href="#基础篇" class="headerlink" title="基础篇"></a>基础篇</h3><ul><li>css3</li><li>html5</li><li>JavaScript</li><li>jQuery</li><li>ajax</li><li>json<a id="more"></a><h3 id="进阶篇"><a href="#进阶篇" class="headerlink" title="进阶篇"></a>进阶篇</h3></li><li>bootstrap</li><li>ES6</li><li>node.js基础</li><li>Webpack基础</li><li>Vue.js</li><li>React.js</li><li>Angular.js<h3 id="高级篇"><a href="#高级篇" class="headerlink" title="高级篇"></a>高级篇</h3></li><li>c#语法</li><li>C语言语法</li><li>java语法</li><li>.net语法</li></ul>]]></content>
     
