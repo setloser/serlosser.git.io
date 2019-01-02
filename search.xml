@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Mac OS]]></title>
-    <url>%2F2018%2F12%2F29%2Fmac-os%2F</url>
-    <content type="text"><![CDATA[Mac OS黑苹果的安装我考虑了很久，这次准备的安装测试机总共两台，一台的型号是宏基4750G，不过我做了升级，内存增加一条4G内存条硬盘换成了一个120G固态SATA接口的。另外一台是我现在在使用华硕的FL5900U。]]></content>
-      <categories>
-        <category>系统</category>
-      </categories>
-      <tags>
-        <tag>系统</tag>
-        <tag>mac</tag>
-        <tag>黑客</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[web学习计划]]></title>
     <url>%2F2018%2F12%2F24%2Fweb-pro%2F</url>
     <content type="text"><![CDATA[基础篇 css3 html5 JavaScript jQuery ajax json 进阶篇 bootstrap ES6 node.js基础 Webpack基础 Vue.js React.js Angular.js高级篇 c#语法 C语言语法 java语法 .net语法]]></content>
